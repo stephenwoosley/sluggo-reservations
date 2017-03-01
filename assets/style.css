@@ -1,0 +1,20 @@
+
+.jumbotron h1, .jumbotron h3, .jumbotron p {
+  text-align: center;
+}
+
+.jumbotron p a {
+  margin: 0px 10px 0px 10px;
+}
+
+.jumbotron p {
+  padding-top: 20px;
+}
+
+.logo-container {
+  max-width: 40%;
+}
+
+.jumbotron img {
+  width: 40%;
+}
