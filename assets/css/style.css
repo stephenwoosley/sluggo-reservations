@@ -18,3 +18,7 @@
 .jumbotron img {
   width: 40%;
 }
+
+.img-responsive {
+  border-radius: 6px;
+}
